@@ -8,7 +8,7 @@
 
 ## 开始使用 Tezos
 
-开始使用[Tezos CLI](https://assets.tqtezos.com/docs/setup/1-tezos-client “Tezos Client”)和本地[Tezos 沙箱](https://assets.tqtezos.com/docs/setup/2-sandbox "Tezos 沙箱")。
+开始使用[Tezos CLI](https://assets.tqtezos.com/docs/setup/1-tezos-client  "Tezos Client")和本地[Tezos 沙箱](https://assets.tqtezos.com/docs/setup/2-sandbox "Tezos 沙箱")。
 
 
 
